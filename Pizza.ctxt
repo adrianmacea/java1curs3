@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Pizza
+comment0.text=\n\ Pizza\ -\ pret\ blat\ +\ ingrediente,\n\ ProsciutoPizza\ -\ 5\ ingrediente\n\ FunghiPizza\ -\ 7\ ingrediente\n\ QuatroStagioni\ -\ 10\ ingrediente\n\ \n\ Ingredient\ -\ nume,\ pret\n\ \n\ Comanda\ -\ mai\ multe\ Pizza\n\ \n\ Functionalitati\:\ \n\ adaugare\ ingrediente,\ calculare\ pret\ total\ (blat\ +\ fiecare\ ingredient)\n\ adaugare\ pizza\ pe\ comanda,\ afisare\ ingrediente\ si\ pret\ total\n
+comment1.params=pret
+comment1.target=Pizza(double)
+comment2.params=i
+comment2.target=void\ adaugaIngredient(Ingredient)
+comment3.params=
+comment3.target=double\ getPretPizza()
+numComments=4

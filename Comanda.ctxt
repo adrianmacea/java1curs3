@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Comanda
+comment1.params=p
+comment1.target=void\ adaugaPizza(Pizza)
+comment2.params=
+comment2.target=void\ afisarePizza()
+comment3.params=
+comment3.target=double\ getPretTotal()
+numComments=4

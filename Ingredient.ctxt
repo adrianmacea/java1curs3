@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Ingredient
+comment1.params=nume\ pret
+comment1.target=Ingredient(java.lang.String,\ double)
+numComments=2

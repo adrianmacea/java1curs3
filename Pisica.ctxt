@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Pisica
+comment0.text=\n\ Encapsulation\:\n\ folosim\ modificatorii\ private\ si\ public\n\ in\ corelatie\ cu\ metodele\ de\ tip\ getter\ si\ setter\n
+comment1.params=
+comment1.target=java.lang.String\ getNume()
+comment2.params=nume
+comment2.target=void\ setNume(java.lang.String)
+comment3.params=
+comment3.target=int\ getVarsta()
+comment4.params=varsta
+comment4.target=void\ setVarsta(int)
+comment5.params=
+comment5.target=boolean\ isDead()
+comment6.params=dead
+comment6.target=void\ setDead(boolean)
+numComments=7
